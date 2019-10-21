@@ -1,6 +1,6 @@
 #!/bin/sh
 # Update jar file to match your system
-ANTLR_LIB="/Javalib/antlr-4.7.2-complete.jar"
+ANTLR_LIB="/usr/local/lib/antlr-4.7.1-complete.jar"
 touch out
 rm -r out
 mkdir out
